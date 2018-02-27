@@ -1,6 +1,8 @@
 
 body {
 	background-color: #C1D;
+	max-width: 950px;
+	margin: 0 auto;
 }
 
 h1 {
