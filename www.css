@@ -1,17 +1,25 @@
 
 body {
-	background-color: #C1D;
+
+	
 	max-width: 950px;
 	margin: 0 auto;
+
+	background-color:#4CFF00FF;
+
 }
 
 h1 {
 	color: #FF006EFF;
+
 	font-size: 5em;
 }
 
 p {
 	color:#1730E7FF;
+
+	font-size: 2em;
+
 }
 
 
